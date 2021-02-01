@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/socialatm/socialatm-client/issues"
   },
-  "homepage": "https://github.com/socialatm/socialatm-client#readme"
+  "homepage": "https://github.com/socialatm/socialatm-client#readme",
+  "dependencies": {
+    "vue": "^3.0.5"
+  }
 }
