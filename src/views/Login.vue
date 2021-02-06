@@ -2,8 +2,8 @@
   <div id="login">
     <h1>Login</h1>
     <h5>Username : "test" Password : "test" </h5>
-    <inputtype="text" name="username" v-model="input.username"
-    placeholder="Username"/> <inputtype="password" name="password"
+    <input type="text" name="username" v-model="input.username"
+    placeholder="Username"/> <input type="password" name="password"
     v-model="input.password" placeholder="Password" />
     <button type="button" v-on:click="login()">Login</button>
   </div>
@@ -49,4 +49,3 @@ export default {
     }
   }
 </style>
--->
