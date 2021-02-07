@@ -1,4 +1,4 @@
-# vue-rest-api
+# socialatm-web-client
 
 ## Project setup
 ```
